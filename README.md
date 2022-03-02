@@ -1,4 +1,4 @@
-## [corndog](https://youtu.be/UtcvVbMZxmY) [<img width="19px" src="https://i.postimg.cc/XvG3Hn8H/favicon.png" />](https://i.imgflip.com/4um2h0.jpg)
+## [corn dog](https://youtu.be/UtcvVbMZxmY) [<img width="19px" src="https://i.postimg.cc/XvG3Hn8H/favicon.png" />](https://i.imgflip.com/4um2h0.jpg)
 
 [**Live demo**](https://isbendiyarovanezrin.github.io/corndog)
 
