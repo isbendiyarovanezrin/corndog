@@ -1,4 +1,4 @@
-## corndog <img width="19px" src="https://i.postimg.cc/XvG3Hn8H/favicon.png" />
+## [corndog](https://youtu.be/UtcvVbMZxmY) <img width="19px" src="https://i.postimg.cc/XvG3Hn8H/favicon.png" />
 
 [**Live demo**](https://isbendiyarovanezrin.github.io/corndog)
 
