@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #e2bd8cfa;
+  user-select: none;
+  cursor: none;
+  overflow: hidden;
+  animation: bg-color 10s linear infinite;
+}
+
+@keyframes bg-color {
+  0%,
+  100% {
+    background-color: #c5de87fb;
+  }
+
+  25% {
+    background-color: #ddde87;
+  }
+
+  50% {
+    background-color: #deb887;
+  }
+
+  75% {
+    background-color: #dece87;
+  }
+}
+
+#corndog {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  background-image: url(../img/corndog-1.png), url(../img/corndog-2.png),
+    url(../img/corndog-3.png);
+  animation: move 100s linear infinite;
+}
+
+@keyframes move {
+  from {
+    background-position: 0 0, 0 0, 0 0;
+  }
+
+  to {
+    background-position: 5000px 5000px, 1000px 2000px, -1000px 1500px;
+  }
+}
